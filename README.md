@@ -37,3 +37,7 @@ Other typography, spacing and supporting colours are design choices for the firs
 2. Ask teammates to review the layout and assign improvements through issues.
 3. Use branches for changes and review each other's work before merging.
 4. Test each page at the required widths before submission.
+
+## Contributors
+- Jeho ([@Jehooooo](https://github.com/Jehooooo))
+
